@@ -1,7 +1,7 @@
 - 👋 Hello sexy people, I’m J.
-- 👀 I’m looking to combine knowledge of and experience in research and analytics with some sexy data analysis and manipulation capacities.
-- 🌱 To this end, I’m currently polishing my technical skills.
-- 💞️ I’m not actively looking to collaborate just yet... Soon...
+- 👀 I am a data-savvy individual who is passionate about sustainability and helping businesses operate successfully in an increasingly polarised context where interest in environment and society is rising.
+- 🌱 Currently polishing my technical skills.
+- 💞️ Would love to collaborate with anyone in the field of sustainable analytics. 
 - 📫 You can contact me here or via social media.
 
 <!---
