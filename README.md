@@ -1,5 +1,5 @@
 - 👋 Hello sexy people, I’m J.
-- 👀 I am a data-savvy individual who is passionate about sustainability and believes in helping businesses operate successfully and improve how they measure and manage environmental and societal impacts.
+- 👀 I am a data-savvy individual who is passionate about sustainability and analytics.
 - 🌱 Currently polishing my technical skills.
 - 💞️ Would love to collaborate with anyone in the field of sustainable analytics. 
 - 📫 You can contact me here or via social media.
