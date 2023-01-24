@@ -1,7 +1,7 @@
 - 👋 Hello sexy people, I’m J.
 - 👀 I am a data-savvy individual who is passionate about sustainability and analytics.
-- 🌱 Currently polishing my technical skills.
-- 💞️ Would love to collaborate with anyone in the field of sustainable analytics. 
+- 🌱 Currently setting up a small (tiny) business in the digital sustainability space.
+- 💞️ Would love to collaborate with anyone in this field. 
 - 📫 You can contact me here or via social media.
 
 <!---
