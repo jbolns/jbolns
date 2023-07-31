@@ -1,6 +1,6 @@
 - 👋 Hello sexy people, I’m J.
-- 👀 I am a data-savvy individual who is passionate about sustainability and analytics.
-- 🌱 Currently setting up a small (tiny) business in the digital sustainability space.
+- 👀  I was an academic for a bit. Politics, economics, and whatnot. I am now amongst probably-few political economists who can talk shop with programmers and data engineers.
+- 🌱 Currently in my first year flying solo with a small (tiny) business in the digital technology/sustainability space.
 - 💞️ Would love to collaborate with anyone in this field. 
 - 📫 You can contact me here or via social media.
 
