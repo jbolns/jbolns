@@ -1,7 +1,7 @@
 - 👋 Hello sexy people, I’m J.
-- 👀  I was an academic for a bit. Politics, economics, and whatnot. I am now amongst probably-few political economists who can talk shop with programmers and data engineers.
-- 🌱 Currently in my first year flying solo with a small (tiny) business that aims to help others access and use digital technologies, especially, but not exclusively, where it relates to digital sustainability.
-- 💞️ Would love to collaborate with anyone in this field. 
+- 👀 Coder who understands politics and economics (yes, I hate me, too).
+- 🌱 Currently have a small (tiny) software development firm.
+- 💞️ Would love to collaborate with anyone interested in digital technologies, sustainability, or both.
 - 📫 You can contact me here or via social media.
 
 <!---
