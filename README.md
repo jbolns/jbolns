@@ -1,7 +1,7 @@
 - 👋 Hello sexy people, I’m J.
-- 👀 Coder who understands politics and economics (yes, I hate me, too).
-- 🌱 Currently have a small (tiny) software development firm.
-- 💞️ Would love to collaborate with anyone interested in digital technologies, sustainability, or both.
+- 👀 Used to be a policy expert, now knee-deep into coding. Maybe one day I'll fork-join these two life paths. 
+- 🌱 Currently have a small (tiny) software development firm. Trying to produce cool things. Trying to keep it open-source. 
+- 💞️ Would love to collaborate with anyone interested in high-performance website development, digital sustainability, or both.
 - 📫 You can contact me here or via social media.
 
 <!---
