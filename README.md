@@ -4,9 +4,7 @@
 
 <br />
 
-💻 My favourite languages are Python, JS, SQL, and, oddly, VBA. That said, my main advantage is that I can adapt as needed. If I know it, I know it. If I don't, I figure it out.
-
-🌱 I also can help you approach your digital strategy in a way that keeps society and sustainability in mind.
+💻 My favourite languages are Python, JS, SQL, and, oddly, VBA. That said, my main advantage is that I can adapt as needed. If I know it, I know it. If I don't, I figure it out. I also can help you approach your digital strategy in a way that keeps society and sustainability in mind.
 
 <br />
 
