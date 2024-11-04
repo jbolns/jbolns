@@ -1,6 +1,6 @@
 👋 Hello sexy people, I’m J.
 
-👽 Used to be a policy expert, now knee-deep into coding. 
+👽 Coder. Consultant. Political Economist. 
 
 🌱 Currently have a small (tiny) software development firm. Trying to produce cool things.
 
