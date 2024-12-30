@@ -1,10 +1,12 @@
 👋 Hello sexy people, I’m J.
 
-👽 Coder. Consultant. Political Economist. 
+👽 Coder. Political Economist.
 
-🌱 Currently have a small (tiny) software development firm. Trying to produce cool things.
+🌱 Currently trying to develop cool things, while continuously learning about digital technologies.
 
-💞️ Would love to collaborate with anyone interested in high-performance website development, digital sustainability, applied AI (especially if edge AI), or a combination thereof.
+💡 My biggest lesson thus far is that coding is increasingly becoming a team effort. The really cool things take a team, indeed. I started my coding journey independently. Now trying to be part of something cool. 
+
+💞️ What is cool? High-performance websites (cool, yet fast and extremely efficient), digital sustainability, edge AI, among many other things... It's a long list.
 
 📫 You can contact me here or via social media.
 
