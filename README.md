@@ -1,8 +1,8 @@
 👋 Hello sexy people, I’m J.
 
-👽 Currently trying to develop cool things, and continuously learn about digital technologies.
+👽 Currently trying to develop cool things.
 
-💞️ What is cool? High-performance websites (cool, yet fast and efficient/sustainable), digital sustainability, edge AI, among many other things (it's a long list).
+💞️ What is cool? High-performance websites (cool, yet fast and efficient/sustainable), digital sustainability, edge AI, anything 3D, among many other things (it's a long list).
 
 💡 My biggest lesson thus far is that coding is increasingly a team effort. I started my coding journey independently. Would now like to change that.
 
