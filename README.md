@@ -2,7 +2,7 @@
 
 👽 Currently trying to develop cool things.
 
-💞️ What is cool? High-performance websites (cool, yet fast and efficient/sustainable), digital sustainability, edge AI, anything 3D, among many other things (it's a long list).
+💞️ What is cool? High-performance websites (beautiful, interactive, multilingual, yet fast and sustainable), edge AI, anything 3D, quantum computing, and probably many other things I am yet to try.
 
 💡 My biggest lesson thus far is that coding is increasingly a team effort. I started my coding journey independently. Would now like to change that.
 
